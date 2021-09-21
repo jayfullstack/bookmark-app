@@ -122,9 +122,9 @@ a:active{
 .close-icon{
 	float: right;
 	color: whitesmoke;
-	font-size: 24px;
+	font-size: 20px;
 	position: relative;
-	top: 13px;
+	top: 2px;
 	right: 13px;
 	cursor: pointer;
 }
